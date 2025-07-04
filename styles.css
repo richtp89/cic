@@ -2,4 +2,14 @@ p {
     font-size: 16px;
     color: #9c2424;
     line-height: 1.5;
+    font-family:'Times New Roman';
+}
+.ftp {
+    color: red
+}
+h1 {
+    font-size: 24px;
+    color: aqua;
+    font-family: 'Arial';
+    text-align: center;
 }
